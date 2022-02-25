@@ -1,2 +1,2 @@
 # CRUD-JS.github.io
-CRUD-CRM-JS
+CRUD-CRM-Javascript
