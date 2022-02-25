@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "DrKoop",
+      "email": "test@mail.com",
+      "telefono": "4411222333",
+      "empresa": "drkoop",
+      "id": 27
+    },
+    {
+      "nombre": "Alejandra",
+      "email": "test2@mail.com",
+      "telefono": "55411222366",
+      "empresa": "Elctronics",
+      "id": 28
+    },
+    {
+      "nombre": "Miguel",
+      "email": "test3@mail.com",
+      "telefono": "204112223",
+      "empresa": "Elctronics inc",
+      "id": 29
+    }
+  ]
+}
